@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Lilousound 🫣
 - 👀 I’m interested in programming, sound, martial arts 💻🎚️🥋
-- 🌱 I’m currently learning programming in ruby, swift, html, css, javascript, react 🆒
+- 🌱 I’m currently programming in html, css, javascript, ruby, swift 🆒
 - 💞️ I’m looking to collaborate on many many many projects!! 💻📱⌚️🖥️
 - 📫 How to reach me: aurelieraout@gmail.com
-- 😄 Pronouns: she/her
+- 🌐 My website and portfolio: www.aurelieraout.com
 - ⚡ Fun fact: get in touch and i'll tell you! 🤗 
 
 <!---
