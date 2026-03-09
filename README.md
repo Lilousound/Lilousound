@@ -37,8 +37,10 @@
 I transitioned from **25 years as a freelance sound engineer and sound designer** to **web and mobile development**, bringing the same **precision, creativity, and discipline** to coding. My unique background allows me to approach projects with a **user-centered mindset** and a **problem-solving attitude**.
 
 I specialize in:
-- Building **responsive, modern websites** (HTML/CSS/JS).
-- Collaborating on **full-stack projects** (Ruby on Rails).
+Developing responsive, modern web interfaces using HTML5, CSS3, and JavaScript (ES6+), with a focus on user experience, accessibility, and clean, maintainable code.
+I love turning design mockups into pixel-perfect, interactive experiences.
+Exploring new tools and frameworks like React, Next.js, and Tailwind CSS
+To build scalable, performant applications—always eager to learn and adapt!
 
 ---
 ## 📂 **Projects**
@@ -46,7 +48,6 @@ I specialize in:
  |---------|-------------|------------|
  | [INTIP Website](https://aurelieraout.com/intip) | Responsive website for a fire safety company. | HTML, CSS |
  | [My Portfolio](https://aurelieraout.com) | Personal website showcasing my skills and projects. | HTML, CSS, JS |
- | [Exemple Karaté Club Website](https://aurelieraout.com/karate_website/index.html) | Exemple website for a karate club. | HTML, CSS |
  
 ---
 ## 💼 **Freelance Work**
@@ -62,5 +63,6 @@ Open to **short-term and long-term missions** in:
 ## 📌 **How to Reach Me**
 - 📧 Email: [aurelieraout@gmail.com](mailto:aurelieraout@gmail.com)
 - 🌐 Website: [aurelieraout.com](https://www.aurelieraout.com)
+- 👔 LinkedIn : (linkedin.com/in/aurélie-raout-0b302116)
 - 💼 Malt: [malt.fr/profile/aurelieraout](https://www.malt.fr/profile/aurelieraout)
 ---
