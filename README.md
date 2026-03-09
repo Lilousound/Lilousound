@@ -63,6 +63,6 @@ Open to **short-term and long-term missions** in:
 ## 📌 **How to Reach Me**
 - 📧 Email: [aurelieraout@gmail.com](mailto:aurelieraout@gmail.com)
 - 🌐 Website: [aurelieraout.com](https://www.aurelieraout.com)
-- 👔 LinkedIn : [Linkedin Profile](linkedin.com/in/aurélie-raout-0b302116)
+- 👔 LinkedIn : [Linkedin Profile](https://www.linkedin.com/in/aur%C3%A9lie-raout-0b302116/)
 - 💼 Malt: [Malt Profile](https://www.malt.fr/profile/aurelieraout)
 ---
