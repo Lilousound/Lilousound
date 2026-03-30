@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Aurélie Raout
-**Full-Stack Web & Front-End Web Developer** | **Former Sound Engineer & Sound Designer**
+**Front-End Web Developer** | **Former Sound Engineer & Sound Designer**
 
 📍 Paris, France | 🌍 Open to remote work
 🔗 [Portfolio](https://aurelieraout.com) | [LinkedIn](https://www.linkedin.com/in/aurélie-raout-0b302116/) | [Malt](https://www.malt.fr/profile/aurelieraout)
