@@ -46,6 +46,8 @@ To build scalable, performant applications—always eager to learn and adapt!
 ## 📂 **Projects**
    Project | Description | Tech Stack |
  |---------|-------------|------------|
+ | [Trackscout](https://github.com/Lilousound/trackscout) | A music discovery app built with React and the Deezer API |React, Tailwind CSS |
+ | [Sportpresso](https://github.com/Lilousound/sportpresso) | A web application that recommends personalized coffee-based recipes based on your sports activity. | HTML, CSS, JS |
  | [INTIP Website](https://aurelieraout.com/intip) | Responsive website for a fire safety company. | HTML, CSS |
  | [My Portfolio](https://aurelieraout.com) | Personal website showcasing my skills and projects. | HTML, CSS, JS |
  
